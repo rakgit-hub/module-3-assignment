@@ -1,0 +1,22 @@
+#header-nav {
+	background-color: grey;
+	border-radius: 0;
+	border: 0;
+}
+
+div p {
+	background: grey;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.container h1 {
+	margin-top: 10px;
+}
+
+li a {
+	color: black !important;
+}
+
+#chicken-div {
+}
